@@ -14,6 +14,8 @@ Predicting and understanding customer churn behavior using data-driven technique
 
 This project explores customer churn for a telecommunications company using exploratory data analysis (EDA), data preprocessing, and machine learning. The objective is to identify key drivers of churn and develop predictive models that can help telecom businesses improve customer retention.
 
+The datset is sourced from an IBM Dataset on Kaggle [`Kaggle`](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 ---
 
 ## 🚀 Objectives
